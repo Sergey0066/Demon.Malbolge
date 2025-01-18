@@ -9,5 +9,5 @@
 
 Для запуска, скопируйте код и вставьте на сайте https://malbolge.doleczek.pl
 
-Если хотите запусить через файл [Demon.Malbolge](https://github.com/Sergey0066/Demon.Malbolge/releases/tag/Demon.Malbolge)
-,то вам потребуется скачать интерпретатор.
+Если хотите запусить через файл [Demon.Malbolge](https://github.com/Sergey0066/Demon.Malbolge/releases/tag/Demon.Malbolge),
+то вам потребуется скачать интерпретатор.
