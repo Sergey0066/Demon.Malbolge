@@ -20,6 +20,7 @@
 
 #### ЛОГИ ВЫПОЛНЕНИЯ КОДА:
 > [!IMPORTANT]
+> 3435
 ```Deprecated
 register a: 0000000101     register c: 0020011001     register d: 0020010222
 
